@@ -11,6 +11,6 @@ app.get('/', (req, res) => {
 
 app.listen(3000, () => {
 
-    console.log('Q fue mano');
+    console.log('Servidor activoo');
 
 } )
