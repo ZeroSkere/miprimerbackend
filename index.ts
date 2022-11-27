@@ -5,7 +5,7 @@ const app = express()
 
 app.get('/', (req, res) => {
 
-    res.send('Q fue mano')
+    res.send('Papi ando activo')
 }
 )
 
