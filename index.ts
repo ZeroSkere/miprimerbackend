@@ -5,12 +5,12 @@ const app = express()
 
 app.get('/', (req, res) => {
 
-    res.send('Q fue rey')
+    res.send('Q fue mano')
 }
 )
 
 app.listen(3000, () => {
 
-    console.log('Q fue papi');
+    console.log('Q fue mano');
 
 } )
